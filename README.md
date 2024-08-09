@@ -4,7 +4,7 @@ This project is a Higher or Lower card game built using React, where the player 
 
 ## Introduction
 
-The **Card** project is a web application built using React and TypeScript, configured with Vite for fast development and building. This project includes custom card components and helper utilities, structured to offer a performant and modern development experience.
+The **Higher or Lower Card Game** project is a web application built using React and TypeScript, configured with Vite for fast development and building. This project includes custom card components and helper utilities, structured to offer a performant and modern development experience.
 
 ## Table of Contents
 
@@ -34,7 +34,7 @@ To start the development server, use:
 npm run dev
 ```
 
-This will launch the application locally, typically accessible at `http://localhost:5173`.
+This will launch the application locally, which is accessible at `http://localhost:5173`.
 
 To build the application for production, execute:
 
@@ -74,4 +74,5 @@ Development dependencies include:
   - `components/`: Reusable React components.
   - `helpers/`: Utility functions used across the application.
   - `assets/`: Static assets like SVGs and CSS files.
+
 # higherorlower
