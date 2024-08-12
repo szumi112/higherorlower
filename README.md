@@ -12,9 +12,7 @@ The **Higher or Lower Card Game** project is a web application built using React
 - [Usage](#usage)
 - [Features](#features)
 - [Dependencies](#dependencies)
-- [Development](#development)
-- [Configuration](#configuration)
-- [License](#license)
+- [Structure](#structure)
 
 ## Installation
 
@@ -68,11 +66,9 @@ Development dependencies include:
 - **Vite**: ^5.3.4
 - **ESLint** and plugins for React and TypeScript.
 
-### File Structure
+### Structure
 
 - `src/`: Contains the main application code.
   - `components/`: Reusable React components.
   - `helpers/`: Utility functions used across the application.
   - `assets/`: Static assets like SVGs and CSS files.
-
-# higherorlower
